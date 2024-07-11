@@ -67,9 +67,10 @@ The main objective of this project is to make a dog tracker using LoRa and LoRaW
 
 Instead of using GPS, we use RSSI for localization. The linear distance is calculated using the formula:
 
-\[
+$$
 \text{Distance} = 10^{\frac{A - \text{RSSI}}{10n}}
-\]
+$$
+
 
 Where:
 - \( A \) is the standard RSSI value corresponding to a 1m distance.
