@@ -73,9 +73,9 @@ $$
 
 
 Where:
-- \( A \) is the standard RSSI value corresponding to a 1m distance.
-- \( \text{RSSI} \) is the received RSSI value.
-- \( n \) is the environmental factor.
+-  ```A```  is the standard RSSI value corresponding to a 1m distance.
+-  ``` RSSI``` is the received RSSI value.
+-  ```n```is the environmental factor.
 
 ## Setup and Usage
 
