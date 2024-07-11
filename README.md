@@ -4,13 +4,12 @@ This repository contains the implementation details of our LoRaWAN-based dog tra
 
 Table of Contents
 
-    Introduction
-    Components and Requirements
-    System Architecture
-    Localization Method
-    Setup and Usage
-    Challenges and Solutions
-    Future Scope
-    Contributors
-    License
-
+1. Introduction
+2.  Components and Requirements
+3.  System Architecture
+4. Localization Method
+5. Setup and Usage
+6. Challenges and Solutions
+7. Future Scope
+8. Contributors
+   
