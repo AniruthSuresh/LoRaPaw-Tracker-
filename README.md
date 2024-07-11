@@ -74,7 +74,7 @@ $$
 
 Where:
 -  ```A```  is the standard RSSI value corresponding to a 1m distance.
--  ``` RSSI``` is the received RSSI value.
+-  ```RSSI``` is the received RSSI value.
 -  ```n```is the environmental factor.
 
 ## Setup and Usage
@@ -124,4 +124,3 @@ request('http://your-gateway-url/data', (error, response, body) => {
 - Autrio Das (2022112007)
 - Aryan Garg (2022102074)
 - Samkit Jain (2022102062)
-- Aniruth Suresh (2022102055)
