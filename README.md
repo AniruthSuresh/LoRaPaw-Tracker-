@@ -12,7 +12,6 @@ This repository contains the implementation details of our LoRaWAN-based dog tra
 6. [Challenges and Solutions](#challenges-and-solutions)
 7. [Future Scope](#future-scope)
 8. [Contributors](#contributors)
-9. [License](#license)
 
 ## Introduction
 
