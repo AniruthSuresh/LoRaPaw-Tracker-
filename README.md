@@ -1,2 +1,16 @@
 # LoRaPaw-Tracker-
-Here's a small description for your GitHub repository:  ---  **LoRaPaw Tracker**  This project localizes the position of a dog without using GPS, leveraging LoRaWAN technology for efficient and accurate tracking.
+
+This repository contains the implementation details of our LoRaWAN-based dog tracking project - **LoRaPaw-Tracker**. Our objective was to create a dog tracker using the LoRa and LoRaWAN protocols, localizing the dog's position through triangulation using RSSI values.
+
+Table of Contents
+
+    Introduction
+    Components and Requirements
+    System Architecture
+    Localization Method
+    Setup and Usage
+    Challenges and Solutions
+    Future Scope
+    Contributors
+    License
+
